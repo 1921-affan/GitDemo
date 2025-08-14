@@ -1,1 +1,14 @@
 Basic Commands
+
+mandatory Commands 
+  git init
+  to make remote connection btwn editor and github
+  git remote add origin https://github.com/1921-affan/GitDemo.git 
+
+  pull request 
+  git pull origin Branch_Name
+
+push 
+  git add .
+  git commit -m "commit message"
+  git push 
